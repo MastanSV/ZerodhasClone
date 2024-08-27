@@ -1,0 +1,8 @@
+.mynavbar {
+  border: "1px solid #ccc";
+}
+
+.container {
+  display: "flex";
+  alignitems: "stretch";
+}
