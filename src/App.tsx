@@ -1,10 +1,12 @@
-import Footer from "./ui/components/Footer/Footer";
-import Navbar from "./ui/components/Navbar/Navbar";
+import Footer from "./app/components/Footer";
+import Navbar from "./app/components/Navbar";
+import Image from "./app/components/Image";
 
 function App() {
   return (
     <>
       <Navbar />
+      <Image />
       <Footer />
     </>
   );
