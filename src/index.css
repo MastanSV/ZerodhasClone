@@ -6,3 +6,8 @@
   display: "flex";
   alignitems: "stretch";
 }
+
+.ecosystem-container {
+  display: flex;
+  justify-content: center;
+}
